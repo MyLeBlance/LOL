@@ -1,0 +1,10 @@
+PODS:
+  - ICViewPager (1.5.1)
+
+DEPENDENCIES:
+  - ICViewPager
+
+SPEC CHECKSUMS:
+  ICViewPager: 032dc71a50fe898e185fae6112ded4bed0e0523c
+
+COCOAPODS: 0.39.0
